@@ -5,7 +5,7 @@
 
 
 
-#### Buttons -> [(file:///C:/Users/hs86442/Desktop/html-css-course/buttons.html)]
+#### Buttons -> [GitHub Pages](https://pages.github.com/)
 
 #### Text -> [](file:///C:/Users/hs86442/Desktop/html-css-course/text.html)
 
