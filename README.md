@@ -5,8 +5,8 @@
 
 
 
-#### Buttons -> [GitHub Pages](https://pages.github.com/)
+#### Buttons -> [Buttons Link](file:///C:/Users/hs86442/Desktop/html-css-course/buttons.html)
 
-#### Text -> [](file:///C:/Users/hs86442/Desktop/html-css-course/text.html)
+#### Text -> [Text Link](file:///C:/Users/hs86442/Desktop/html-css-course/text.html)
 
-#### Website -> [](file:///C:/Users/hs86442/Desktop/html-css-course/website.html)
+#### Website -> [Website Link](file:///C:/Users/hs86442/Desktop/html-css-course/website.html)
