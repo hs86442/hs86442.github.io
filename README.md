@@ -6,10 +6,10 @@
 
 
 
-#### Buttons -> [Buttons Link](file:///C:/Users/hs86442/Desktop/html-css-course/buttons.html)
+#### Buttons -> [Buttons Link](https://www.youtube.com/)
 
-#### Text -> [Text Link](file:///C:/Users/hs86442/Desktop/html-css-course/text.html)
+#### Text -> [Text Link](https://www.youtube.com/)
 
-#### Website -> [Website Link](file:///C:/Users/hs86442/Desktop/html-css-course/website.html)
+#### Website -> [Website Link](https://www.youtube.com/)
 
 
