@@ -3,13 +3,6 @@
 
 ### Links Below
 
+## --> [Click Me](https://hs86442.github.io/view/)
 
-
-
-#### Buttons -> [Buttons Link](https://hs86442.github.io/hs86442.github.io-links/)
-
-#### Text -> [Text Link](https://hs86442.github.io/hs86442.github.io-links/)
-
-#### Website -> [Website Link](https://hs86442.github.io/hs86442.github.io-links/)
-
-##### helololo
+# imawa dimaiwd
